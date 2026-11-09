@@ -1,0 +1,6 @@
+{
+  "name": "Barista Simulator",
+  "description": "Learn coffee recipes and proportions with an interactive brewing barista simulator and detailed order receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
